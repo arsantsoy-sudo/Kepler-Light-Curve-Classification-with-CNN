@@ -70,20 +70,27 @@ The model is trained for 80 epochs. Early stopping is not used. The checkpoint w
 
 ## Results
 
-Accuracy curve
+Accuracy curve:
 
 <img width="2000" height="1200" alt="accuracy_curve" src="https://github.com/user-attachments/assets/989522a2-530c-4d46-aeb6-bb9b2d825c1b" />
 
 
-Loss curve
+Loss curve:
 
 <img width="2000" height="1200" alt="loss_curve" src="https://github.com/user-attachments/assets/7c63928b-fd31-46dc-b746-915c52cf2278" />
 
 
-Confusion matrix
+Confusion matrix:
 
 <img width="1400" height="1200" alt="confusion_matrix" src="https://github.com/user-attachments/assets/ea4e4389-1818-4333-b9a6-be5c6de57c0a" />
 
+Evaluation: 
+
+test_objects: 60
+accuracy: 0.4666666666666667
+macro_precision: 0.30092592592592593
+macro_recall: 0.4666666666666666
+macro_f1: 0.3625541125541126
 
 Final numerical metrics are stored in results/metrics.json.
 

@@ -36,6 +36,18 @@ python scripts/02_build_dataset.py
 python scripts/03_train_cnn.py
 python scripts/04_evaluate.py
 
+## Pipe line
+
+Kepler FITS files
+        ↓
+Preprocessing
+        ↓
+Dataset construction
+        ↓
+1D CNN training
+        ↓
+Evaluation
+
 ## Model
 
 The neural network uses:
@@ -91,7 +103,7 @@ Kepler_project/
 │   └── metrics.json
 ├── .gitignore
 ├── requirements.txt
-├── README.md
+├── README.md 
 └── LICENSE
 
 Raw FITS files, generated datasets, virtual environments, and trained model files are not stored in the repository.

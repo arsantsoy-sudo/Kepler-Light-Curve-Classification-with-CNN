@@ -1,0 +1,9 @@
+{
+  "seed": 42,
+  "train_objects": 478,
+  "val_objects": 60,
+  "test_objects": 60,
+  "epochs_completed": 27,
+  "test_loss": 0.8232631087303162,
+  "test_accuracy": 0.6000000238418579
+}

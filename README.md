@@ -118,6 +118,10 @@ Raw FITS files, generated datasets, virtual environments, and trained model file
 
 Darkhan Shadykul
 
+## Coauthor
+
+Darkhan Shadykul
+
 ## Author
 
 Arsan Tsoy

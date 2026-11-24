@@ -114,6 +114,9 @@ Kepler_project/
 └── LICENSE
 
 Raw FITS files, generated datasets, virtual environments, and trained model files are not stored in the repository.
+## Scientific Supervisor
+
+Darkhan Shadykul
 
 ## Author
 
